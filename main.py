@@ -834,11 +834,19 @@ customers.baca()
 
 
 #absen13
-from kelas_2c import Kevin
+from kelas_2c import kevin
 
 kode = "tp"
-cekharga = Kevin.Kevin(kode)
+cekharga = kevin.Kevin(kode)
 cekharga.function()
+kevin.paijo()
+kevin.tono()
+kevin.dodo()
+kevin.lakso()
+kevin.Create()
+kevin.InputData()
+kevin.ViewData()
+kevin.asep()
 #absen14
 
 
